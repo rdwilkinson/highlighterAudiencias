@@ -1,1 +1,1 @@
-trabajo|laboral|laborales|temas.{0,6}laborales|titulo|laboral.-|empleo|entrega.{0,6}curriculum
+trabajo|laboral|laborales|temas.{0,6}laborales|titulo|laboral.-|empleo|entrega.{0,6}curriculum|ayuda.{0,6}laboral
