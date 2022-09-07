@@ -1,1 +1,1 @@
-apoyo|financiamiento|deportivo|subvención|emprendimiento|organización|patrocinio|apoyo.{0,6}actividad|factibilidad.{0,6}aporte
+apoyo|financiamiento|aporte|deportivo|subvención|nacional|organización|actividad|valor|auspicio|patrocinio|delegación|presentacion|aportes|apoyo.{0,6}actividad|osorno|factibilidad.{0,6}aporte

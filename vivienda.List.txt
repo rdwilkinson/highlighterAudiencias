@@ -1,1 +1,1 @@
-vivienda|mediagua
+vivienda|mediagua|vivienda.-|temas.{0,6}vivienda

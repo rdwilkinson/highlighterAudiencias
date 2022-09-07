@@ -1,1 +1,1 @@
-patente|permiso|autorización|vender|permisos|autorizaciòn|puesto.{0,6}feria
+feria|patente|permiso|autorización|vender|recorrido|permisos|autorizaciòn|puesto.{0,6}feria

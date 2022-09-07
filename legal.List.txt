@@ -1,1 +1,1 @@
-legal|judicial|asistencia.{0,6}legal
+trabajadores|asesoría|legal|ayuda.{0,6}legal|judicial|asistencia.{0,6}legal
